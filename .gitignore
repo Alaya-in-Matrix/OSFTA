@@ -1,0 +1,7 @@
+# Ingnore files
+#
+*.swp
+ref/
+__pycache__/
+.ipynb_checkpoints/
+*.ipynb
